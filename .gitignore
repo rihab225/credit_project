@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+final_dataset.csv
+application_record.csv
+credit_record.csv
+application_cleaned.csv
